@@ -1,0 +1,79 @@
+610  [main] WARN  p.belajar_java_logging.LevelTest - warn
+617  [main] ERROR p.belajar_java_logging.LevelTest - error
+634  [main] WARN  p.belajar_java_logging.LevelTest - warn
+637  [main] ERROR p.belajar_java_logging.LevelTest - error
+623  [main] ERROR p.b.contoh.ContohTest - error
+574  [main] WARN  p.belajar_java_logging.LevelTest - warn
+589  [main] ERROR p.belajar_java_logging.LevelTest - error
+621  [main] TRACE p.belajar_java_logging.LevelTest - trace
+627  [main] DEBUG p.belajar_java_logging.LevelTest - debug
+628  [main] INFO  p.belajar_java_logging.LevelTest - info
+629  [main] WARN  p.belajar_java_logging.LevelTest - warn
+630  [main] ERROR p.belajar_java_logging.LevelTest - error
+02:38:01.696 [main] TRACE p.belajar_java_logging.LevelTest - trace
+02:38:01.698 [main] DEBUG p.belajar_java_logging.LevelTest - debug
+02:38:01.699 [main] INFO  p.belajar_java_logging.LevelTest - info
+02:38:01.700 [main] WARN  p.belajar_java_logging.LevelTest - warn
+02:38:01.701 [main] ERROR p.belajar_java_logging.LevelTest - error
+02:38:15.504 [main] TRACE p.belajar_java_logging.LevelTest - trace
+02:38:15.507 [main] DEBUG p.belajar_java_logging.LevelTest - debug
+02:38:15.507 [main] INFO  p.belajar_java_logging.LevelTest - info
+02:38:15.508 [main] WARN  p.belajar_java_logging.LevelTest - warn
+02:38:15.509 [main] ERROR p.belajar_java_logging.LevelTest - error
+2023-45-25 02:45:56.586 [main] TRACE p.belajar_java_logging.LevelTest - trace
+2023-45-25 02:45:56.589 [main] DEBUG p.belajar_java_logging.LevelTest - debug
+2023-45-25 02:45:56.590 [main] INFO  p.belajar_java_logging.LevelTest - info
+2023-45-25 02:45:56.591 [main] WARN  p.belajar_java_logging.LevelTest - warn
+2023-45-25 02:45:56.592 [main] ERROR p.belajar_java_logging.LevelTest - error
+2023-46-25 02:46:40.436 [main] TRACE p.belajar_java_logging.LevelTest - trace
+2023-46-25 02:46:40.454 [main] DEBUG p.belajar_java_logging.LevelTest - debug
+2023-46-25 02:46:40.454 [main] INFO  p.belajar_java_logging.LevelTest - info
+2023-46-25 02:46:40.455 [main] WARN  p.belajar_java_logging.LevelTest - warn
+2023-46-25 02:46:40.456 [main] ERROR p.belajar_java_logging.LevelTest - error
+2023-03-25 02:48:22.637 [main] TRACE p.belajar_java_logging.LevelTest - trace
+2023-03-25 02:48:22.637 [main] DEBUG p.belajar_java_logging.LevelTest - debug
+2023-03-25 02:48:22.637 [main] INFO  p.belajar_java_logging.LevelTest - info
+2023-03-25 02:48:22.637 [main] WARN  p.belajar_java_logging.LevelTest - warn
+2023-03-25 02:48:22.637 [main] ERROR p.belajar_java_logging.LevelTest - error
+2023-03-25 03:35:18.618 [main] INFO  p.belajar_java_logging.MyController - 8cbc3d57-0efc-4f0a-b5c4-dae0b27750f5- controller save
+2023-03-25 03:35:18.624 [main] INFO  p.belajar_java_logging.MyService - 8cbc3d57-0efc-4f0a-b5c4-dae0b27750f5-service save
+2023-03-25 03:35:18.625 [main] INFO  p.belajar_java_logging.MyRepository - 8cbc3d57-0efc-4f0a-b5c4-dae0b27750f5-Repository save
+2023-03-25 03:40:36.417 [main] INFO  p.belajar_java_logging.MyController - []e6270a4c-50e6-4ea0-87c0-9010d2065431- controller save
+2023-03-25 03:40:36.432 [main] INFO  p.belajar_java_logging.MyService - []e6270a4c-50e6-4ea0-87c0-9010d2065431-service save
+2023-03-25 03:40:36.432 [main] INFO  p.belajar_java_logging.MyRepository - []e6270a4c-50e6-4ea0-87c0-9010d2065431-Repository save
+2023-03-25 03:50:35.033 [main] INFO  p.belajar_java_logging.MyController - [bdcc88c0-535a-4dbc-b135-e1798e0e643a]controller save
+2023-03-25 03:50:35.033 [main] INFO  p.belajar_java_logging.MyService - [bdcc88c0-535a-4dbc-b135-e1798e0e643a]service save
+2023-03-25 03:50:35.033 [main] INFO  p.belajar_java_logging.MyRepository - [bdcc88c0-535a-4dbc-b135-e1798e0e643a]Repository save
+2023-03-25 03:53:19.527 [Thread-0] INFO  p.belajar_java_logging.MyController - []controller save
+2023-03-25 03:53:19.530 [Thread-0] INFO  p.belajar_java_logging.MyService - []service save
+2023-03-25 03:53:19.531 [Thread-0] INFO  p.belajar_java_logging.MyRepository - []Repository save
+2023-03-25 04:02:21.940 [Thread-0] INFO  p.belajar_java_logging.MyController - [991284c5-10d3-4367-957b-c7f252e9e777]controller save
+2023-03-25 04:02:21.961 [Thread-2] INFO  p.belajar_java_logging.MyController - [f6baf515-f79c-413f-a297-997bd2250dd9]controller save
+2023-03-25 04:02:21.956 [Thread-1] INFO  p.belajar_java_logging.MyController - [27ea1b8c-f477-473d-8bcc-8ee36956f615]controller save
+2023-03-25 04:02:21.961 [Thread-0] INFO  p.belajar_java_logging.MyService - [991284c5-10d3-4367-957b-c7f252e9e777]service save
+2023-03-25 04:02:21.961 [Thread-2] INFO  p.belajar_java_logging.MyService - [f6baf515-f79c-413f-a297-997bd2250dd9]service save
+2023-03-25 04:02:21.962 [Thread-1] INFO  p.belajar_java_logging.MyService - [27ea1b8c-f477-473d-8bcc-8ee36956f615]service save
+2023-03-25 04:02:21.962 [Thread-2] INFO  p.belajar_java_logging.MyRepository - [f6baf515-f79c-413f-a297-997bd2250dd9]Repository save
+2023-03-25 04:02:21.962 [Thread-0] INFO  p.belajar_java_logging.MyRepository - [991284c5-10d3-4367-957b-c7f252e9e777]Repository save
+2023-03-25 04:02:21.962 [Thread-1] INFO  p.belajar_java_logging.MyRepository - [27ea1b8c-f477-473d-8bcc-8ee36956f615]Repository save
+2023-03-25 04:02:21.963 [Thread-4] INFO  p.belajar_java_logging.MyController - [d14167b7-1ef8-447b-a1f1-589e28c16981]controller save
+2023-03-25 04:02:21.963 [Thread-3] INFO  p.belajar_java_logging.MyController - [4d36e05c-9921-43fb-92f7-932a685b2a7b]controller save
+2023-03-25 04:02:21.964 [Thread-3] INFO  p.belajar_java_logging.MyService - [4d36e05c-9921-43fb-92f7-932a685b2a7b]service save
+2023-03-25 04:02:21.964 [Thread-4] INFO  p.belajar_java_logging.MyService - [d14167b7-1ef8-447b-a1f1-589e28c16981]service save
+2023-03-25 04:02:21.965 [Thread-3] INFO  p.belajar_java_logging.MyRepository - [4d36e05c-9921-43fb-92f7-932a685b2a7b]Repository save
+2023-03-25 04:02:21.965 [Thread-4] INFO  p.belajar_java_logging.MyRepository - [d14167b7-1ef8-447b-a1f1-589e28c16981]Repository save
+2023-03-25 04:02:21.968 [Thread-6] INFO  p.belajar_java_logging.MyController - [a84eb6f1-e145-4631-a437-8eea120b756b]controller save
+2023-03-25 04:02:21.968 [Thread-8] INFO  p.belajar_java_logging.MyController - [8f71fc11-4ec8-4b9c-be3b-6ac0025637d5]controller save
+2023-03-25 04:02:21.968 [Thread-8] INFO  p.belajar_java_logging.MyService - [8f71fc11-4ec8-4b9c-be3b-6ac0025637d5]service save
+2023-03-25 04:02:21.968 [Thread-8] INFO  p.belajar_java_logging.MyRepository - [8f71fc11-4ec8-4b9c-be3b-6ac0025637d5]Repository save
+2023-03-25 04:02:21.968 [Thread-6] INFO  p.belajar_java_logging.MyService - [a84eb6f1-e145-4631-a437-8eea120b756b]service save
+2023-03-25 04:02:21.969 [Thread-6] INFO  p.belajar_java_logging.MyRepository - [a84eb6f1-e145-4631-a437-8eea120b756b]Repository save
+2023-03-25 04:02:21.969 [Thread-7] INFO  p.belajar_java_logging.MyController - [e007d415-9a82-4b19-b484-38e9447f53fc]controller save
+2023-03-25 04:02:21.967 [Thread-5] INFO  p.belajar_java_logging.MyController - [bfd33fff-0528-435c-852e-b67a192b78cf]controller save
+2023-03-25 04:02:21.969 [Thread-7] INFO  p.belajar_java_logging.MyService - [e007d415-9a82-4b19-b484-38e9447f53fc]service save
+2023-03-25 04:02:21.969 [Thread-5] INFO  p.belajar_java_logging.MyService - [bfd33fff-0528-435c-852e-b67a192b78cf]service save
+2023-03-25 04:02:21.969 [Thread-7] INFO  p.belajar_java_logging.MyRepository - [e007d415-9a82-4b19-b484-38e9447f53fc]Repository save
+2023-03-25 04:02:21.969 [Thread-5] INFO  p.belajar_java_logging.MyRepository - [bfd33fff-0528-435c-852e-b67a192b78cf]Repository save
+2023-03-25 04:02:21.971 [Thread-9] INFO  p.belajar_java_logging.MyController - [8cf503f3-b1fc-47ea-a2fc-73944ab57747]controller save
+2023-03-25 04:02:21.971 [Thread-9] INFO  p.belajar_java_logging.MyService - [8cf503f3-b1fc-47ea-a2fc-73944ab57747]service save
+2023-03-25 04:02:21.971 [Thread-9] INFO  p.belajar_java_logging.MyRepository - [8cf503f3-b1fc-47ea-a2fc-73944ab57747]Repository save
